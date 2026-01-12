@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "TOKYO DRIFT（FAST＆FURIOUS） (『ワイルドスピードX3 TOKYO DRIFT』より　)",
+  "base_artist": "Teriyaki Boyz",
+  "createdAt": "2026-01-12T05:30:40.611525Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "TOKYO DRIFT(FAST&FURIOUS) (『ワイルドスピードX3 TOKYO DRIFT』より ) - Tokyo Drift (Fast & Furious) (From \"The Fast and the Furious: Tokyo Drift\")",
+      "artist": "Teriyaki Boyz",
+      "has_synced": true,
+      "path": "select/01_TOKYO_DRIFT(FAST&FURIOUS)_(『ワイルドスピードX3_TOKYO_DRIFT』より_)_-_Tokyo_Drift_(Fast_&_Fu_Teriyaki_Boyz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tokyo Drift (Fast & Furious) - From \"The Fast And The Furious: Tokyo Drift\" Soundtrack",
+      "artist": "Teriyaki Boyz",
+      "has_synced": false,
+      "path": "select/pl_01_Tokyo_Drift_(Fast_&_Furious)_-_From__The_Fast_And_The_Furious__Tokyo_Drift__Soun_Teriyaki_Boyz.txt"
+    }
+  ]
+}
